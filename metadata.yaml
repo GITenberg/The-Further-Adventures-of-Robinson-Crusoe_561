@@ -1,0 +1,51 @@
+_repo: The-Further-Adventures-of-Robinson-Crusoe_561
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: "The Farther Adventures of Robinson Crusoe (now more commonly rendered\
+  \ as \"The Further adventures of Robinson Crusoe\") is a novel by Daniel Defoe,\
+  \ first published in 1719. Just as in its significantly more popular predecessor,\
+  \ Robinson Crusoe (1719), the first edition credits the work's fictional protagonist\
+  \ Robinson Crusoe as its author. It was published under the considerably longer\
+  \ original title: The Farther Adventures of Robinson Crusoe; Being the Second and\
+  \ Last Part of His Life, And of the Strange Surprising Accounts of his Travels Round\
+  \ three Parts of the Globe. Although intended to be the last Crusoe tale, the novel\
+  \ is followed by a third and final novel involving the character by Defoe entitled\
+  \ Serious Reflections of Robinson Crusoe (1720).\nThe story is speculated to be\
+  \ partially based on Moscow embassy secretary Adam Brand's journal detailing the\
+  \ embassy's journey from Moscow to Peking from 1693 to 1695.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '561'
+  wikidata: Q4154269
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Fiction'
+- GITenberg
+title: The Further Adventures of Robinson Crusoe
+url: http://www.gutenberg.org/ebooks/561
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B9%D1%88%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD%D0%B0_%D0%9A%D1%80%D1%83%D0%B7%D0%BE
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D9%84%D8%B1%D9%88%D8%A8%D9%86%D8%B3%D9%88%D9%86_%D9%83%D8%B1%D9%88%D8%B2%D9%88
+- https://zh.wikipedia.org/wiki/%E9%B2%81%E6%BB%A8%E9%80%8A%C2%B7%E5%85%8B%E9%B2%81%E7%B4%A2%E7%9A%84%E6%9B%B4%E8%BF%9C%E5%8E%86%E9%99%A9
+- https://en.wikipedia.org/wiki/The_Farther_Adventures_of_Robinson_Crusoe
+- https://br.wikipedia.org/wiki/The_Farther_Adventures_of_Robinson_Crusoe
